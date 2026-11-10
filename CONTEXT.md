@@ -9,6 +9,7 @@ Evidence IDs below resolve in the [source review](Inbox/2026-11-09-source-review
 
 ### 직무
 - [확인] 서대철 / David Seo, 야놀자리서치 선임연구원: recent company email signature; work combines research and operations.
+- [사용자 확인: 2026-11-10] 조직·동료: [야놀자리서치 조직도](People/야놀자리서치_조직도.md). 주간회의 기록: [Meetings/주간회의](Meetings/주간회의/README.md).
 - [회고: S01] Main expertise: tourism policy, aviation/airports, visitor mobility and demand forecasting. Aviation/transport/Japan is the intended specialization.
 
 ## Current focus

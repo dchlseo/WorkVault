@@ -17,6 +17,10 @@ This existing inner Obsidian vault is the root. Original project documents remai
 - Projects/Portfolio.md: other work streams; split into individual notes only when detail warrants it.
 - Routines/: 정기 업무(루틴)별 절차·규칙·실행 기록. AI 작업 지침 겸용.
 - Routines/주간업무보고.md: 정기 주간업무보고 작성 절차·규칙·실행 기록 (AI 작업 지침 겸용).
+- Routines/주간회의_아카이빙.md: 주간회의 후 회의 노트를 남기는 절차·규칙 (AI 작업 지침 겸용).
+- Routines/주간회의_아카이빙_GPT지침.md: 같은 작업을 회사 GPT에 맡길 때 쓰는 독립 지침서 (Sheets 인덱스 + vault 노트 + Slack·메일·캘린더).
+- Meetings/주간회의/: 야놀자리서치 주간회의 기록. 회의 1건 = 노트 1개(YYYY-MM-DD.md), 실행 기록은 README. 프로젝트별 회의는 계속 Projects/<프로젝트>/에 둔다.
+- People/: [조직도](People/야놀자리서치_조직도.md)와 인물별 짧은 노트. 회의 노트에서 [[이름]]으로 연결하고, 인물별 이력은 백링크로 본다.
 - Journal/: dated observations, decisions, rationale and changes.
 - Inbox/: unprocessed inputs, source indexes and unresolved questions.
 - WorkVault_Starter_Context.md: preserved MindVault migration reference; not newly verified evidence.
