@@ -1,0 +1,102 @@
+{
+  "extracted": [
+    {
+      "id": "L0006",
+      "path": "admin_회의록/20260730_공항공사_킥오프.txt",
+      "extract": "Meetings/Evidence/L0006.md"
+    },
+    {
+      "id": "L0007",
+      "path": "admin_회의록/20260813_kac_kickoff_qna.txt",
+      "extract": "Meetings/Evidence/L0007.md"
+    },
+    {
+      "id": "L0008",
+      "path": "admin_회의록/20260820_내부 킥오프.txt",
+      "extract": "Meetings/Evidence/L0008.md"
+    },
+    {
+      "id": "L0009",
+      "path": "admin_회의록/20261013 kac 미팅 (경희대 센터).txt",
+      "extract": "Meetings/Evidence/L0009.md"
+    },
+    {
+      "id": "L0010",
+      "path": "admin_회의록/20261021_kac 본사 회의.txt",
+      "extract": "Meetings/Evidence/L0010.md"
+    },
+    {
+      "id": "L0011",
+      "path": "admin_회의록/청주공항_인터뷰_회의록_20260921.docx",
+      "extract": "Meetings/Evidence/L0011.md"
+    },
+    {
+      "id": "L0031",
+      "path": "data/KAC_출국데이터/KAC 국제선 여객자료 검토보고서_20261103.docx",
+      "extract": "Data/Evidence/L0031.md"
+    },
+    {
+      "id": "L0077",
+      "path": "data/KAC_출국데이터/한국공항공사 제공 데이터 관련 대화록.txt",
+      "extract": "Data/Evidence/L0077.md"
+    },
+    {
+      "id": "L0118",
+      "path": "data/외래관광객조사/rental_car_analysis/README_rental_car_analysis_korea.md",
+      "extract": "Data/Evidence/L0118.md"
+    },
+    {
+      "id": "L0162",
+      "path": "data/항공정보포털/20261106/README.md",
+      "extract": "Data/Evidence/L0162.md"
+    },
+    {
+      "id": "L0244",
+      "path": "data/항공정보포털/20261106/reports/eda_findings.md",
+      "extract": "Data/Evidence/L0244.md"
+    },
+    {
+      "id": "L0439",
+      "path": "렌터카/렌터카 이용 특성 분석(한국 일본) 20261014.pptx",
+      "extract": "LastMile/Evidence/L0439.md"
+    },
+    {
+      "id": "L0443",
+      "path": "운수권/항공자유화_운수권_현황_초기분석_보고서.docx",
+      "extract": "Airlines/Evidence/L0443.md"
+    },
+    {
+      "id": "L0448",
+      "path": "인터뷰/KAC_한국 지방공항 및 일본 현지 인터뷰 통합본_20261103.pptx",
+      "extract": "Interviews/Evidence/L0448.md"
+    },
+    {
+      "id": "L0507",
+      "path": "일본사례/교통·관광 배후확산 사례연구/RN-01_교통관광_배후확산_Interim_Research_Note.docx",
+      "extract": "Japan/Evidence/L0507.md"
+    },
+    {
+      "id": "L1470",
+      "path": "일본사례/지역과 공항/양양공항_배후수요_부족론_검토_장표원고.md",
+      "extract": "Japan/Evidence/L1470.md"
+    },
+    {
+      "id": "L1472",
+      "path": "전략부분/과업내용서(외국인 이동패턴 분석).pdf",
+      "extract": "Strategy/Evidence/L1472.md"
+    },
+    {
+      "id": "L1474",
+      "path": "전략부분/최교수님_공항공사프로젝트전략부문내용_260905.pdf",
+      "extract": "Strategy/Evidence/L1474.md"
+    },
+    {
+      "id": "L1475",
+      "path": "전략부분/한국공항공사_중간보고_storyline_261105.pptx",
+      "extract": "Strategy/Evidence/L1475.md"
+    }
+  ],
+  "errors": [
+    "[WinError 5] 액세스가 거부되었습니다: 'C:\\\\Users\\\\deachul.seo\\\\Desktop\\\\P. 한국공항공사 프로젝트\\\\일본사례\\\\일본_공항_국제화\\\\japan_airport_history_v2\\\\05_validation\\\\kac_v03_c0xhwnjm'"
+  ]
+}

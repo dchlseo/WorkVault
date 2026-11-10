@@ -1,0 +1,66 @@
+# ── Obsidian: per-device UI state (changes constantly → merge conflicts) ──
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+
+# Obsidian Git plugin settings are per-device (commit messages, intervals, device name)
+.obsidian/plugins/obsidian-git/data.json
+
+# Other plugin caches/indexes (in case they get installed later)
+.smart-connections/
+.smart-env/
+.obsidian/plugins/*/cache/
+.obsidian/plugins/omnisearch/
+.obsidian/plugins/copilot/
+
+# ── OS junk ──
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ── Editors / temp ──
+*.tmp
+*.swp
+*~
+~$*
+.vscode/
+.idea/
+
+# ── Local AI tool settings (personal/per-machine) ──
+.claude/settings.local.json
+
+# ── Secrets: never commit ──
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secret*
+
+# ── Large / original binaries: keep in the local project folders, not here ──
+*.pdf
+*.hwp
+*.hwpx
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+*.parquet
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
+*.mp3
+*.m4a
+*.wav

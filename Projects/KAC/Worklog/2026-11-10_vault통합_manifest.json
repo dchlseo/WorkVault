@@ -1,0 +1,321 @@
+{
+ "date": "2026-11-10",
+ "archive": "C:\\Users\\deachul.seo\\Desktop\\P. 한국공항공사 프로젝트\\_archive\\KAC_Project_2026-11-10",
+ "rows": [
+  {
+   "source": "KAC_Project/00_작성규칙/보고서_작성_Convention.md",
+   "destination": "Projects/KAC/보고서_작성_Convention.md",
+   "source_sha256": "b5b7da08986e510fb5b7a1a9663f4b4fa43b681c99d67750e2ffd82fbb5728c5",
+   "dest_sha256": "4bbd7be029139d3b3748d3e1c3e00ed32ec399e508fbe6c69fd04152990af506",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/01_노트자료_전체목록.md",
+   "destination": "Projects/KAC/파일목록.md",
+   "source_sha256": "0c4a5f22b3c3be0a77983a6a21f9d51560021489f21818bcfc7311493abb75d9",
+   "dest_sha256": "e64e383b9af3acc726bf9f06ebda36ce77cdb88b0f81748df0cd45e60541b9c6",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/02_Word및기타형식_노트목록.md",
+   "destination": "Projects/KAC/파일목록_Word및기타형식.md",
+   "source_sha256": "9ec3e130fabd2c3249af46bb7bab3473db0c08443bf7e3610e215446f92d687b",
+   "dest_sha256": "a60ebe70f0923bf9326129c2db289a9480a5eb315cddd6f2bf3601bf6b2ea7ed",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/20261106_notes.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/20261106_notes.md",
+   "source_sha256": "00ba00b06d5c28275554419e3d8b9b081693a66dbc6d5626ad4cc6e337ee31c5",
+   "dest_sha256": "a8ea06c3096a145719b033d7c2d4b87a11dab12663f0e29b4b0a660f1fdda482",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/README.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/외항사_유치전략_개요.md",
+   "source_sha256": "01782deec1015454958755f6a0904268568e814f341f90eb0266074827b16c0a",
+   "dest_sha256": "c18262333a9c0f9bf396240ab5c66845da82d36ab4d03c3b72a95cf0de4523ae",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/대구양양_타깃시장_대만도시검토_20261109.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/대구양양_타깃시장_대만도시검토_20261109.md",
+   "source_sha256": "7b0e03859df6cb9cd807c5b84eda9642c832a311fbbebf03daf0fd73e893c3e4",
+   "dest_sha256": "1c015581a6387e15a16f7f6718f3a5bb7b0ec5307995533d3bc41545bcf1df37",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/외항사_유치전략_구상_20261109.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/외항사_유치전략_구상_20261109.md",
+   "source_sha256": "9491b2654aa76647860f596cfed694e43da731d961006da7b96c74d145d64f4b",
+   "dest_sha256": "8c935ce842babd75bb4bc9b819c94102772d1ea567ab44a5cfc4ed6378273eec",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/외항사_유치전략_보고서초안_20261109.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/외항사_유치전략_보고서초안_20261109.md",
+   "source_sha256": "5d8a3ccc2205af20f01eb3e8a330e997a246ab4d617eb25583ec046418c969a2",
+   "dest_sha256": "a898193a3eafa7f38e46df526c24551b5b1883903f349db15583183254b0efb3",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/외항사_전략_TODO_20261109.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/외항사_전략_TODO_20261109.md",
+   "source_sha256": "5ada73cd9bb6f53fd8c34f1d5f0f8fd22dfb719d95791b2979898d4f65c8d3cb",
+   "dest_sha256": "da10ca958fddb33872846bd820481c9583d9c68c8047b968deed1285565c9af8",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/외항사_참고자료_로컬매핑_20261109.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/외항사_참고자료_로컬매핑_20261109.md",
+   "source_sha256": "33d7d232b503afbba76abe6c098b6e85052c2ae238cf78ccb8a1f46c701c42c7",
+   "dest_sha256": "d45e31042170667e7397fbec8078b10711546a8c3f84bd375d5342fb01f732f9",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/해외도시_공항_배후수요_평가지표_20261109.md",
+   "destination": "Projects/KAC/Airlines/외항사_유치전략/해외도시_공항_배후수요_평가지표_20261109.md",
+   "source_sha256": "c03c8700dd506de25bb86db93b8984383b942a5eaf005f771d4be7fbe0f772f0",
+   "dest_sha256": "56d0de99d2fadeb7e71b311050e419375d70b76ef45efb310c5a1c74ffc8033a",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/10_전략/외항사_유치전략/WorkVault_반영용/Projects/KAC/Airlines/2026-11-09-외항사전략이관.md",
+   "destination": "Projects/KAC/Airlines/2026-11-09-외항사전략이관.md",
+   "source_sha256": "1c39343083c82be45cd128123f104b2c0f12909f8a664daa38f2be6bb1267a0c",
+   "dest_sha256": "2de20c8ec220dd54c1289fa9c3314ebbc50506981dd5ee324b53638d1e016d1d",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/20_회의록/00_목록.md",
+   "destination": "Projects/KAC/Meetings/회의록_목록.md",
+   "source_sha256": "c8bcd39a0d4d9dd43520a09de819bdc1d99f6a768b7840afe380e7a952fee17b",
+   "dest_sha256": "c8bcd39a0d4d9dd43520a09de819bdc1d99f6a768b7840afe380e7a952fee17b",
+   "links_rewritten": false
+  },
+  {
+   "source": "KAC_Project/20_회의록/20260730_공항공사_킥오프.md",
+   "destination": "Projects/KAC/Meetings/20260730_공항공사_킥오프.md",
+   "source_sha256": "521555937f4be0bc427e87cf8c96944dbbacc293e7fe4fca613cee76bd488090",
+   "dest_sha256": "4fb4e5e131d0b0c1e3bcea7bb9cf7c19d5a3cf3907215372878291d474191c79",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/20_회의록/20260813_kac_kickoff_qna.md",
+   "destination": "Projects/KAC/Meetings/20260813_kac_kickoff_qna.md",
+   "source_sha256": "9d7c95f9b904bf53e203a8a559eb04e28162bf447d525c1376a049bd41f1ebee",
+   "dest_sha256": "c1839ad8ada76a476b3aa927124965e8134dfa2135824c8122b38d376ddb8f95",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/20_회의록/20260820_내부 킥오프.md",
+   "destination": "Projects/KAC/Meetings/20260820_내부 킥오프.md",
+   "source_sha256": "c68d705d04f22c6fd1cfacd187c6145924ad1cf1f31c78c9d9d55f1014d963eb",
+   "dest_sha256": "a1ee31feb5155274a4eaeeb50077b0413728db8a383f271789923f90d403dcc8",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/20_회의록/20261013 kac 미팅 (경희대 센터).md",
+   "destination": "Projects/KAC/Meetings/20261013 kac 미팅 (경희대 센터).md",
+   "source_sha256": "87fe17bbfc18a4a4e50abfaffe6d0933274d27e4dc0e444e8fb35fe4511f7f8c",
+   "dest_sha256": "01e9ae970efe08561fd4ee1b6cd82e275e632188b2d64d3495e510fa6d267e89",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/20_회의록/20261021_kac 본사 회의.md",
+   "destination": "Projects/KAC/Meetings/20261021_kac 본사 회의.md",
+   "source_sha256": "e8c981a031a0744e3b72ecf82c4aed325419eea8aaf2e20bc1731654422e98e1",
+   "dest_sha256": "ca8411180572809cb23bc4144b13b5c13dcb6c42961a47bc89bb53ab042b748c",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/20_회의록/20261109_라스트마일 자료조사 관련 회의(한국).md",
+   "destination": "Projects/KAC/Meetings/20261109_라스트마일 자료조사 관련 회의(한국).md",
+   "source_sha256": "20e4666fe72004bc4b9453fa78402af9b24d9581374d54d447bb271fcea84ecd",
+   "dest_sha256": "20e4666fe72004bc4b9453fa78402af9b24d9581374d54d447bb271fcea84ecd",
+   "links_rewritten": false
+  },
+  {
+   "source": "KAC_Project/20_회의록/청주공항_인터뷰_회의록_20260921.md",
+   "destination": "Projects/KAC/Meetings/청주공항_인터뷰_회의록_20260921.md",
+   "source_sha256": "8229b6c778f00209e09984f2ae66395c27c10a055cb5b66704958e037a833fcd",
+   "dest_sha256": "889481329587e53d1ba1d48837b0a2ecb8d45218493f06c214f8d5c16c2c5957",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/00_목록.md",
+   "destination": "Projects/KAC/Interviews/인터뷰_목록.md",
+   "source_sha256": "95cc316d16eaab70f1fb7fae8dccf253c6eff4bfd4f2e029999eab43fea63a56",
+   "dest_sha256": "95cc316d16eaab70f1fb7fae8dccf253c6eff4bfd4f2e029999eab43fea63a56",
+   "links_rewritten": false
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/[KAC_PJT] 공항별 추가 인터뷰 질문.md",
+   "destination": "Projects/KAC/Interviews/[KAC_PJT] 공항별 추가 인터뷰 질문.md",
+   "source_sha256": "3ea10abe6a8b713256c5c669039c4c1c2814b64dc6fb1bca2938b45848574796",
+   "dest_sha256": "65283301ca8e82e1d2b188e45f8c0c6561ec4ccaf977b3b1063e75c54f0de739",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/[KAC_PJT] 인터뷰 전 스터디노트.md",
+   "destination": "Projects/KAC/Interviews/[KAC_PJT] 인터뷰 전 스터디노트.md",
+   "source_sha256": "69bf18a593ffeeb38c2fcd2abe4c5687fa7540eda9f362fe0619c39ab976a853",
+   "dest_sha256": "ec8cc3681a1b7ef9f53627377d631cce8b98ffa4f764a724931aefbfa2ba591b",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/OLD/일본_외항사_유치_전문가_인터뷰_후보_보고자료_도쿠시마검토_업데이트.md",
+   "destination": "Projects/KAC/Interviews/OLD/일본_외항사_유치_전문가_인터뷰_후보_보고자료_도쿠시마검토_업데이트.md",
+   "source_sha256": "0f83bf2f01e80f0126a0bf800f1e816c7bef0fc94ba4785c6fba7d37a51c5a2f",
+   "dest_sha256": "ef7e51fa22b22886f68d71eeb67c23b25efa23ad95728209d7105134922566f9",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/OLD/20260907/일본_외항사_유치_현지인터뷰_후보_gpt_20260907.md",
+   "destination": "Projects/KAC/Interviews/OLD/20260907/일본_외항사_유치_현지인터뷰_후보_gpt_20260907.md",
+   "source_sha256": "6c2b30cde00115d860910a5bf8691d635d1892a2cc312f84086604d9156da294",
+   "dest_sha256": "50cae2386b2e33677dfdf3584406895df857810ce27e4441cfed780837fbb011",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/OLD/20260907/일본_외항사_유치_현지인터뷰_후보_sdc_20260907.md",
+   "destination": "Projects/KAC/Interviews/OLD/20260907/일본_외항사_유치_현지인터뷰_후보_sdc_20260907.md",
+   "source_sha256": "24efe754725401dfec5be9948aa2d64ffbaee6820369ec122f6182f3d795fadb",
+   "dest_sha256": "5433a47bac065fa2a842381c5b569e0e9f4aa9e0bf49219d3cddee1838aa602e",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/일본_현지_인터뷰/KAC_일본_기관별_인터뷰_요청_개요_20261007.md",
+   "destination": "Projects/KAC/Interviews/일본_현지_인터뷰/KAC_일본_기관별_인터뷰_요청_개요_20261007.md",
+   "source_sha256": "f810f98cb7761b3c07df4da44d03a15790f14d572fdc02a638b4a9aec33c8286",
+   "dest_sha256": "e6759c3dbdce9f752d1e0853d5425767e46954221410e2a7b328d6bc8addb476",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/일본_현지_인터뷰/일본 현지 인터뷰 메모.md",
+   "destination": "Projects/KAC/Interviews/일본_현지_인터뷰/일본 현지 인터뷰 메모.md",
+   "source_sha256": "eaa9be6b5cda707098d6d7cf478f8f5d84e1a0cbc806bd3aead0f0b062d911b4",
+   "dest_sha256": "d1f7ba4457831cbec634dab9d4cfd5d19f24fdb07383ee4cf89d2e5e6e09a8ed",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/지역공항_인터뷰/20261022_대구공항 회의.md",
+   "destination": "Projects/KAC/Interviews/지역공항_인터뷰/20261022_대구공항 회의.md",
+   "source_sha256": "6bce886c962090662ebbf5b9704ea647df8e00eed8328b7775de7865eecc050e",
+   "dest_sha256": "0f0ad697c643cd0c6716923a18515758d1b364e652cea86e47e108bc8d973092",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/지역공항_인터뷰/20261023_김해공항 회의.md",
+   "destination": "Projects/KAC/Interviews/지역공항_인터뷰/20261023_김해공항 회의.md",
+   "source_sha256": "c769f1ebc86384aadb93f86de158a06f386170f8a5d43f515ad2a92f2502cd5e",
+   "dest_sha256": "cffcc063e5718ee824bacc3cd2762c34a83169f501d7a13a1e47ca14998d88b6",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/지역공항_인터뷰/20261102_양양공항+강원도청_인터뷰노트.md",
+   "destination": "Projects/KAC/Interviews/지역공항_인터뷰/20261102_양양공항+강원도청_인터뷰노트.md",
+   "source_sha256": "b24540299319509162c4f2f017e5093c9ce1b3828cc6a6da7409c0cf20664f0d",
+   "dest_sha256": "28070fbcc6fbb7b4bce773d61b0fe47264d621cf9a2cfc8897f4b6d899e359f6",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/지역공항_인터뷰/양양공항 인터뷰 질문_sdc.md",
+   "destination": "Projects/KAC/Interviews/지역공항_인터뷰/양양공항 인터뷰 질문_sdc.md",
+   "source_sha256": "a7f25c5a28997959977a2837c7c931817ddb58b991c7df72df118947bc043741",
+   "dest_sha256": "56ffcc2683fb9d953bf06406c7ccabe379826f58975dbb0934656680077a745d",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/30_인터뷰/지역공항_인터뷰/청주공항_인터뷰_회의록_20260921.md",
+   "destination": "Projects/KAC/Interviews/지역공항_인터뷰/청주공항_인터뷰_회의록_20260921.md",
+   "source_sha256": "9379d1ad66305b82c1a3160f64dd9177e083696c417dcc9143a732a654575f8f",
+   "dest_sha256": "23a5068b6fa90fbcbd60b910eb63d65e9ea56b433608b11b056375ebd961a081",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/40_자료검토/00_목록.md",
+   "destination": "Projects/KAC/Data/자료검토_목록.md",
+   "source_sha256": "a1ad97c527bf147f0f740ce2d5862c4f796c03d0e7503ab9806e912700e9e217",
+   "dest_sha256": "d7f4f397ebcdf48a5971c0d7f7cf678e38e1eff21ff0e57369675f1accbd8ac2",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/40_자료검토/슬라이드형_연구노트_목록.md",
+   "destination": "Projects/KAC/Data/슬라이드형_연구노트_목록.md",
+   "source_sha256": "7f2d75eebb34417c893311cba27be5de3cd8b78b18f6b4109326870ee3ca9b47",
+   "dest_sha256": "f070eb4e063816d029d62b98733944db3ece7ab8e41fd25af7a41288e3e0c5fb",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/40_자료검토/data/KAC_출국데이터/한국공항공사 제공 데이터 관련 대화록.md",
+   "destination": "Projects/KAC/Data/한국공항공사 제공 데이터 관련 대화록.md",
+   "source_sha256": "6fd098fb42e5d67f07dd13c39c270d2af33a3f27e9ec4f5f8d7a9e700b5c2358",
+   "dest_sha256": "df52418a690a77625838bddd7ab6580eebe254b4e8f4b15d26b487404c3a58df",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/40_자료검토/일본사례/교통·관광 배후확산 사례연구/RN-01_교통관광_배후확산_Interim_Research_Note.md",
+   "destination": "Projects/KAC/Japan/RN-01_교통관광_배후확산_Interim_Research_Note.md",
+   "source_sha256": "a44169c8e86eecf6567e462135e80e8f306339dc7967a7fbe4693d8dd31d1db9",
+   "dest_sha256": "6e46fd0c4b0fc3c7401d45b8e358d96206f13a96147297ca0c08527becdea473",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/40_자료검토/일본사례/지역과 공항/양양공항_배후수요_부족론_검토_장표원고.md",
+   "destination": "Projects/KAC/Japan/양양공항_배후수요_부족론_검토_장표원고.md",
+   "source_sha256": "d8348cca6cd8b1c1ff422b7feb2219c03c8ad1eaa2fd5a09bfa000454ff93a9b",
+   "dest_sha256": "1db68f243d50e4c3aaea760051b6e952dab8c88bde24b24184c0a3a8c7d886d9",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/50_업무메모/00_목록.md",
+   "destination": "Projects/KAC/Administration/업무메모_목록.md",
+   "source_sha256": "97d9175ea782371eff94f906a9292be93c1359f2f912d9e3c5d3e7b2a5f380ca",
+   "dest_sha256": "97d9175ea782371eff94f906a9292be93c1359f2f912d9e3c5d3e7b2a5f380ca",
+   "links_rewritten": false
+  },
+  {
+   "source": "KAC_Project/50_업무메모/일본출장_자문활동내역_초안.md",
+   "destination": "Projects/KAC/Administration/일본출장_자문활동내역_초안.md",
+   "source_sha256": "3859a10d1a8a3d80a8cab353e0a747d8f395482b05ca0133d6e31b2f7415670d",
+   "dest_sha256": "74e0e88f8d7ee8b9081d471424d8f2a1b228d276835eca9a9459197be60dd7a6",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/90_작업기록/2026-11-09_대구양양_타깃시장_보완.md",
+   "destination": "Projects/KAC/Worklog/2026-11-09_대구양양_타깃시장_보완.md",
+   "source_sha256": "2192f2b4ae0adb2f0bb385b5b8afc40a8ad4adb2cb8abbed0daef8e22d4d01c7",
+   "dest_sha256": "2f54430c6f551e46db69bcde783fadd5601a8d8364d592b26a1cd282b277397d",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/90_작업기록/2026-11-09_도시공항_배후수요지표_보완.md",
+   "destination": "Projects/KAC/Worklog/2026-11-09_도시공항_배후수요지표_보완.md",
+   "source_sha256": "ecc74b7f6b855675a745ca26ed431c47031fbb5a3ec32d5d16c5983948505858",
+   "dest_sha256": "6fd1caf1224e66aa88fad15945682eb47790b7b3cff21212399ab07df61ec76b",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/90_작업기록/2026-11-09_외항사전략_아카이브이관.md",
+   "destination": "Projects/KAC/Worklog/2026-11-09_외항사전략_아카이브이관.md",
+   "source_sha256": "2a98a1f19e468bf9f2d4085170716d1e0f2f009ad1703370b8a5e5e0c25ac5c6",
+   "dest_sha256": "8c71532b22e7a0e43c29e0c7a27b7fc1c84558b0e8e9fc80e1748ca234efc5f6",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/90_작업기록/2026-11-09_외항사전략초안_작성.md",
+   "destination": "Projects/KAC/Worklog/2026-11-09_외항사전략초안_작성.md",
+   "source_sha256": "6ffb822356e65f90ac2ab5abdb02f013f94a70941bdc98460c3e30562028bcf2",
+   "dest_sha256": "4d512bf6647b3922e4684e2bd390755397e190065e7d9734df8e4c02a4fc1882",
+   "links_rewritten": true
+  },
+  {
+   "source": "KAC_Project/90_작업기록/2026-11-09_전체노트정리/README.md",
+   "destination": "Projects/KAC/Worklog/2026-11-09_전체노트정리.md",
+   "source_sha256": "d2c6a231785dd74918e2b32737a811daf9ffab2007ad46dbf6fa0f74361c35fa",
+   "dest_sha256": "ba1100c7f8d5f273edd7d80df2b64861f5baca41cfc5f8ca748adf555cebd6ae",
+   "links_rewritten": true
+  }
+ ]
+}
