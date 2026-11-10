@@ -15,6 +15,7 @@ This existing inner Obsidian vault is the root. Original project documents remai
 - Projects/KAC/: topic notes, source registers and searchable evidence; entry point Projects/KAC/README.md. Source data stay in original project folders. Local files take working precedence over Drive backup copies; name matches are not verified duplicates.
 - **노트/파일 이원화 원칙 (2026-11-10 사용자 결정):** WorkVault가 유일한 vault다. 모든 프로젝트의 회의록·인터뷰·메모·초안·작업기록은 `Projects/<프로젝트>/`에 기록한다. 결과물(docx/pptx/pdf)·데이터·코드와 코드·데이터 폴더의 README·분석 산출 md는 각 프로젝트 폴더에 두고 `file:///` 링크로 연결한다. 프로젝트 폴더에 별도 Obsidian vault를 만들지 않는다.
 - Projects/Portfolio.md: other work streams; split into individual notes only when detail warrants it.
+- Guides/: 프로젝트 공통 작업 지침. [연구보고서 슬라이드 디자인 지침](Guides/연구보고서_슬라이드_디자인지침.md) (정보구조·도식화 12패턴, 2026-11-10).
 - Routines/: 정기 업무(루틴)별 절차·규칙·실행 기록. AI 작업 지침 겸용.
 - Routines/주간업무보고.md: 정기 주간업무보고 작성 절차·규칙·실행 기록 (AI 작업 지침 겸용).
 - Routines/주간회의_아카이빙.md: 주간회의 후 회의 노트를 남기는 절차·규칙 (AI 작업 지침 겸용).
