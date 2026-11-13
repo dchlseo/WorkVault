@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "kac-mock",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765", "--bind", "127.0.0.1", "--directory", "C:/Users/deachul.seo/Desktop/P. 한국공항공사 프로젝트/전략부분/장표_mock"],
+      "port": 8765
+    }
+  ]
+}
